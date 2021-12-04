@@ -1,0 +1,138 @@
+.top {
+  background-color: #CDF2CA;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+
+
+}
+h1 {
+font-family: 'Sacramento', cursive;
+color: #653614;
+font-size: 70px;
+margin-bottom: 0;
+}
+h2,h3 {
+  color: #4d873e;
+}
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+border-width: 10px;
+  color: grey;
+  width: 8%;
+  margin: 100px auto 80px;
+}
+#smsm {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #653614;
+  margin-top: 0;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.top-cloud {
+  position: absolute;
+  left: 910px;
+  top: 10px;
+  height: 300px;
+  width: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  height: 300px;
+  width: 300px;
+}
+.mount {
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+.profile {
+  padding-top: 50px;
+}
+.bottom-container {
+  background-color: #CDF2CA;
+padding-bottom: 10px;
+padding-top: 30px;
+
+}
+.contact-me {
+
+
+    margin: 0 auto 50px;
+
+}
+.bird {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  right: 620px;
+  top: 50px;
+}
+.skill-row {
+  margin: 50px auto 100px auto;
+  width: 63%;
+
+  text-align: left;
+  padding-top: 20px;
+
+}
+.build {
+  float: left;
+  margin-right: 30px;
+
+}
+.movie {
+  float: right;
+  margin-left: 30px;
+}
+p {
+    line-height: 2;
+}
+.btn {
+  background: #a3e39d;
+  background-image: -webkit-linear-gradient(top, #a3e39d, #72db69);
+  background-image: -moz-linear-gradient(top, #a3e39d, #72db69);
+  background-image: -ms-linear-gradient(top, #a3e39d, #72db69);
+  background-image: -o-linear-gradient(top, #a3e39d, #72db69);
+  background-image: linear-gradient(to bottom, #a3e39d, #72db69);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #69e079;
+  background-image: -webkit-linear-gradient(top, #69e079, #86db64);
+  background-image: -moz-linear-gradient(top, #69e079, #86db64);
+  background-image: -ms-linear-gradient(top, #69e079, #86db64);
+  background-image: -o-linear-gradient(top, #69e079, #86db64);
+  background-image: linear-gradient(to bottom, #69e079, #86db64);
+  text-decoration: none;
+}
+.contact-massage {
+  margin: 40px auto 40px;
+}
